@@ -1,0 +1,56 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    
+}
+
+h2 {
+    font-size: 38px;
+}
+
+.col-right {
+    margin-left: 20px;
+}
+
+.alert {
+    font-size: 20px;
+    color: #444;
+}
+
+.flex {
+    display: flex !important;
+    p {
+        display: inline;
+    }    
+}
+
+i {
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.fa-star {
+    color: yellow;
+    margin-left: -4px;
+}
+
+.search {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.card {
+    padding: 0;
+}
+.bm:focus {
+    border: brown;
+    background-color: chartreuse;
+}
+.bmn:hover {
+    color: green;
+}
+.grey:focus {
+    background-color: rgb(81, 15, 235);
+    color: white;
+}
